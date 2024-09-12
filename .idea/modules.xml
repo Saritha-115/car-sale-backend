@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/car-sale-backend.iml" filepath="$PROJECT_DIR$/.idea/car-sale-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sithum-car-sale/sithum-car-sale-inquiry/sithum-car-sale-inquiry/sithum-car-sale-inquiry.iml" filepath="$PROJECT_DIR$/sithum-car-sale/sithum-car-sale-inquiry/sithum-car-sale-inquiry/sithum-car-sale-inquiry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sithum-car-sale/sithum-car-sale-user/sithum-car-sale-user/sithum-car-sale-user.iml" filepath="$PROJECT_DIR$/sithum-car-sale/sithum-car-sale-user/sithum-car-sale-user/sithum-car-sale-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sithum-car-sale/sithum-car-sale-vehicle/sithum-car-sale-vehicle/sithum-car-sale-vehicle.iml" filepath="$PROJECT_DIR$/sithum-car-sale/sithum-car-sale-vehicle/sithum-car-sale-vehicle/sithum-car-sale-vehicle.iml" />
+    </modules>
+  </component>
+</project>

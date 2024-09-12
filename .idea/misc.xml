@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sithum-car-sale/sithum-car-sale-user/sithum-car-sale-user/pom.xml" />
+        <option value="$PROJECT_DIR$/sithum-car-sale/sithum-car-sale-inquiry/sithum-car-sale-inquiry/pom.xml" />
+        <option value="$PROJECT_DIR$/sithum-car-sale/sithum-car-sale-vehicle/sithum-car-sale-vehicle/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+</project>
